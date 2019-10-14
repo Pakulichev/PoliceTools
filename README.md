@@ -4,3 +4,7 @@ Police Tools
 
 QIWI Wallet: [Click2Pay](https://qiwi.me/pakulichev)<br>
 Contact me: [Click2Write](https://t.me/pakulichev)
+
+----
+
+Police Tools is **free-to-use** SA:MP project powered on Lua and FYP's MoonLoader which should help RolePlay Servers players playing without any problems connected with RolePlay process. This project based on Russian language and compatible **ONLY** with Russian servers.
